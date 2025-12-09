@@ -1,23 +1,24 @@
 
 # 👋 Hi, I'm Bishoy Osama
 
-Welcome to my GitHub portfolio!
+Welcome !
 
 ## About Me
 
-I am a passionate and detail-oriented software developer with a strong foundation in computer science and hands-on experience in designing, building, and deploying user-friendly applications. I enjoy solving challenging problems and collaborating with teams to deliver high-quality software solutions.
+I am a passionate and detail-oriented software engineer with a strong foundation in computer science and hands-on experience in designing, building, and deploying user-friendly applications. I enjoy solving challenging problems and collaborating with teams to deliver high-quality software solutions.
+And now Data Analyst transitioning from a Software Engineering background, skilled in SQL, Python, Power BI, and data modeling. I enjoy transforming raw data into clear insights that answer real business questions and support decision-making.
 
-- 🎓 **Education:** [Your Degree, University Name]
-- 💼 **Experience:** [Brief summary, e.g. 3+ years in software development (feel free to update this)]
-- 💡 **Interests:** Web development, Cloud computing, DevOps, Open Source
-- 🌏 **Location:** [Your City/Country]
+- 🎓 **Education:** [Bachelor of Computers and Data science, Alexandria University]
+- 💼 **Experience:** [+2 years in software development]
+- 💡 **Interests:** Data Analysis, Data Engineering, ML
+- 🌏 **Location:** [Alexandria/Egypt]
 
 ## Skills
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, AWS, CI/CD
-- **Other:** REST APIs, Databases (SQL/NoSQL), Testing (unit/integration)
+- **Languages:** Python, JavaScript, Java, SQL
+- **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark
+- **Tools:** Git, Docker, Kubernetes, GCP, CI/CD, Power Bi, 
+- **Other:** REST APIs, Databases (SQL/NoSQL)
 
 ## Projects
 
@@ -34,18 +35,17 @@ Here are some highlights from my portfolio:
 ## Why Hire Me?
 
 - Strong problem solving and analytical skills
-- Experience working with diverse teams
 - Eager to learn and adapt to new technologies
+- experience in software engineering
 - Solid communication and project management abilities
 
 ## Let's Connect
 
 I'm always open to new opportunities and collaborations!
 
-- 📧 Email: [your.email@email.com] (replace with actual)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) (replace with actual)
-- 🐦 [Twitter](https://twitter.com/your-twitter) (replace with actual)
+- 📧 Email: [osamabisho77@gmail.com]
+- 💼 [LinkedIn](www.linkedin.com/in/bishoy-osama-58693b215)
 
 ---
 
-*Thank you for visiting my GitHub portfolio!*
+*Thank you for visiting & you are always welcome*
