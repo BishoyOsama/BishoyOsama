@@ -24,10 +24,10 @@ And now Data Analyst transitioning from a Software Engineering background, skill
 
 Here are some highlights from my portfolio:
 
-| Project | Description | Technologies Used |
+| Project | Description | Technologies Used / Concepts |
 | ------- | ----------- | ---------------- |
-| [Project 1](link-to-repo) | Brief project summary and impact | Python, Django, PostgreSQL |
-| [Project 2](link-to-repo) | Brief project summary and impact | React, Node.js, MongoDB |
+| [Project 1](https://github.com/BishoyOsama/LogisticsAnalysis) | Logistics & Customer Satisfaction Analysis | Google BigQuery, PowerBI |
+| [Project 2](link-to-repo) | Human Resources Analysis | Power Bi, Data Modeling |
 | [Project 3](link-to-repo) | Brief project summary and impact | AWS, Docker, CI/CD        |
 
 -->
