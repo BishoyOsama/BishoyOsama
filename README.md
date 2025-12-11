@@ -27,8 +27,8 @@ Here are some highlights from my portfolio:
 | Project | Description | Technologies Used / Concepts |
 | ------- | ----------- | ---------------- |
 | [Project 1](https://github.com/BishoyOsama/LogisticsAnalysis) | Logistics & Customer Satisfaction Analysis | Google BigQuery, PowerBI |
-| [Project 2](link-to-repo) | Human Resources Analysis | Power Bi, Data Modeling |
-| [Project 3](link-to-repo) | Brief project summary and impact | AWS, Docker, CI/CD        |
+| [Project 2](https://github.com/BishoyOsama/EmployeeRetention-Attrition) | Human Resources Analysis | Power Bi, Data Modeling |
+| [Project 3](link-to-repo) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
 
 -->
 ## Why Hire Me?
