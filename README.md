@@ -30,6 +30,7 @@ Here are some highlights from my portfolio:
 | [Project 2](https://github.com/BishoyOsama/EmployeeRetention-Attrition) | Human Resources Analysis | Power Bi, Data Modeling |
 | [Project 3](https://github.com/BishoyOsama/OnlineRetail-Customer-Segmentation) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
 | [Project 4](https://github.com/BishoyOsama/Datawarehouse)| Desiging Data warehouse & Analysis | PostgreSQL, Medallion Architecture, Power Bi |
+| [Project 5](https://github.com/BishoyOsama/Hospital-Discharges-Financial-Efficiency) | Hospital Discharges & Financial Sustainability | Power Bi, Dax, Data Modeling |
 
 
 ## Why Hire Me?
