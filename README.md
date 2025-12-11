@@ -19,7 +19,7 @@ And now Data Analyst transitioning from a Software Engineering background, skill
 - **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark
 - **Tools:** Git, Docker, Kubernetes, GCP, CI/CD, Power Bi, 
 - **Other:** REST APIs, Databases (SQL/NoSQL)
-<!--
+
 ## Projects
 
 Here are some highlights from my portfolio:
@@ -28,9 +28,9 @@ Here are some highlights from my portfolio:
 | ------- | ----------- | ---------------- |
 | [Project 1](https://github.com/BishoyOsama/LogisticsAnalysis) | Logistics & Customer Satisfaction Analysis | Google BigQuery, PowerBI |
 | [Project 2](https://github.com/BishoyOsama/EmployeeRetention-Attrition) | Human Resources Analysis | Power Bi, Data Modeling |
-| [Project 3](link-to-repo) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
+| [Project 3](https://github.com/BishoyOsama/OnlineRetail-Customer-Segmentation) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
 
--->
+
 ## Why Hire Me?
 
 - Strong problem solving and analytical skills
