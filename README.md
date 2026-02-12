@@ -5,8 +5,9 @@ Welcome !
 
 ## About Me
 
-I am a passionate and detail-oriented software engineer with a strong foundation in computer science and hands-on experience in designing, building, and deploying user-friendly applications. I enjoy solving challenging problems and collaborating with teams to deliver high-quality software solutions.
-And now Data Analyst transitioning from a Software Engineering background, skilled in SQL, Python, Power BI, and data modeling. I enjoy transforming raw data into clear insights that answer real business questions and support decision-making.
+Passionate and detail-oriented Software Engineer transitioning into Data Analytics, with a strong foundation in computer science and experience designing, building, and deploying reliable applications.
+
+Experienced in SQL, Python, Power BI, data modeling, Databricks, Apache Spark, Kafka, and dbt, I focus on transforming raw, batch, and streaming data into clean, analytics-ready datasets and meaningful visualizations. I enjoy solving complex problems, uncovering insights, and supporting data-driven decision-making with scalable and well-designed solutions.
 
 - 🎓 **Education:** Bachelor of Computers and Data science, Alexandria University
 - 💼 **Experience:** +2 years in software development
@@ -16,8 +17,8 @@ And now Data Analyst transitioning from a Software Engineering background, skill
 ## Skills
 
 - **Languages:** Python, JavaScript, Java, SQL
-- **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark
-- **Tools:** Git, Docker, Kubernetes, GCP, CI/CD, Power Bi, 
+- **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark, kafka
+- **Tools:** Git, Docker, GCP, CI/CD, Power Bi, databricks, dbt 
 - **Other:** REST APIs, Databases (SQL/NoSQL)
 
 ## Projects
@@ -31,6 +32,7 @@ Here are some highlights from my portfolio:
 | [Project 3](https://github.com/BishoyOsama/OnlineRetail-Customer-Segmentation) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
 | [Project 4](https://github.com/BishoyOsama/Datawarehouse)| Desiging Data warehouse & Analysis | PostgreSQL, Medallion Architecture, Power Bi |
 | [Project 5](https://github.com/BishoyOsama/Hospital-Discharges-Financial-Efficiency) | Hospital Discharges & Financial Sustainability | Power Bi, Dax, Data Modeling |
+| [Project 6](https://github.com/BishoyOsama/LogisticsLakehouse.git)  | Logistics Lakehouse Pipeline | Databricks, Kafka, Spark, DBT, Airflow |
 
 
 ## Why Hire Me?
