@@ -18,7 +18,7 @@ Experienced in SQL, Python, Power BI, data modeling, Databricks, Apache Spark, K
 
 - **Languages:** Python, JavaScript, Java, SQL
 - **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark, kafka
-- **Tools:** Git, Docker, GCP, CI/CD, Power Bi, databricks, dbt 
+- **Tools:** Git, Docker, GCP, CI/CD, Power Bi, databricks, dbt, airflow
 - **Other:** REST APIs, Databases (SQL/NoSQL)
 
 ## Projects
