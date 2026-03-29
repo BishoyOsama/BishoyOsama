@@ -1,4 +1,3 @@
-<img width="100%" height="768" alt="Gemini_Generated_Image_s4ehnms4ehnms4eh" src="https://github.com/user-attachments/assets/996a3470-8c53-407c-b3cf-0115d918b3a8" />
 
 # Hi, I'm Bishoy Osama
 
