@@ -1,3 +1,4 @@
+<img width="100%" height="768" alt="Gemini_Generated_Image_s4ehnms4ehnms4eh" src="https://github.com/user-attachments/assets/996a3470-8c53-407c-b3cf-0115d918b3a8" />
 
 # 👋 Hi, I'm Bishoy Osama
 
@@ -27,20 +28,21 @@ Here are some highlights from my portfolio:
 
 | Project | Description | Technologies Used / Concepts |
 | ------- | ----------- | ---------------- |
-| [Project 1](https://github.com/BishoyOsama/LogisticsAnalysis) | Logistics & Customer Satisfaction Analysis | Google BigQuery, PowerBI |
-| [Project 2](https://github.com/BishoyOsama/EmployeeRetention-Attrition) | Human Resources Analysis | Power Bi, Data Modeling |
-| [Project 3](https://github.com/BishoyOsama/OnlineRetail-Customer-Segmentation) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
-| [Project 4](https://github.com/BishoyOsama/Datawarehouse)| Desiging Data warehouse & Analysis | PostgreSQL, Medallion Architecture, Power Bi |
-| [Project 5](https://github.com/BishoyOsama/Hospital-Discharges-Financial-Efficiency) | Hospital Discharges & Financial Sustainability | Power Bi, Dax, Data Modeling |
-| [Project 6](https://github.com/BishoyOsama/LogisticsLakehouse.git)  | Logistics Lakehouse Pipeline | Databricks, Kafka, Spark, DBT, Airflow |
+| [Project 1](https://github.com/BishoyOsama/LogisticsLakehouse.git)  | Logistics Lakehouse Pipeline | Databricks, Kafka, Spark, DBT, Airflow |
+| [Project 2](https://github.com/BishoyOsama/LogisticsAnalysis) | Logistics & Customer Satisfaction Analysis | Google BigQuery, PowerBI |
+| [Project 3](https://github.com/BishoyOsama/EmployeeRetention-Attrition) | Human Resources Analysis | Power Bi, Data Modeling |
+| [Project 4](https://github.com/BishoyOsama/OnlineRetail-Customer-Segmentation) | Unsupervised Customer Segmentation | Python, scikit-learn, RFM |
+| [Project 5](https://github.com/BishoyOsama/Datawarehouse)| Desiging Data warehouse & Analysis | PostgreSQL, Medallion Architecture, Power Bi |
+| [Project 6](https://github.com/BishoyOsama/Hospital-Discharges-Financial-Efficiency) | Hospital Discharges & Financial Sustainability | Power Bi, Dax, Data Modeling |
 
 
-## Why Hire Me?
 
-- Strong problem solving and analytical skills
-- Eager to learn and adapt to new technologies
-- experience in software engineering
-- Solid communication and project management abilities
+## Certifications
+
+<div>
+       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"><img width="250" height="193" alt="MCF-badge-1" src="https://github.com/user-attachments/assets/0452d521-e321-4090-8d68-726b020a0b34" /></a>
+</div>
+
 
 ## Let's Connect
 
