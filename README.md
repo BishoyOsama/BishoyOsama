@@ -9,7 +9,7 @@ Passionate and detail-oriented Software Engineer transitioning into Data Enginee
 
 - 🎓 **Education:** Bachelor of Computers and Data science, Alexandria University
 - 💼 **Experience:** +2 years in software development
-- 💡 **Interests:** Data Analysis, Data Engineering, ML
+- 💡 **Interests:** Data Engineering, ML
 - 🌏 **Location:** Alexandria/Egypt
 
 ## Skills
