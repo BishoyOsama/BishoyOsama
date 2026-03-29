@@ -1,14 +1,12 @@
 <img width="100%" height="768" alt="Gemini_Generated_Image_s4ehnms4ehnms4eh" src="https://github.com/user-attachments/assets/996a3470-8c53-407c-b3cf-0115d918b3a8" />
 
-# 👋 Hi, I'm Bishoy Osama
+# Hi, I'm Bishoy Osama
 
 Welcome !
 
 ## About Me
 
-Passionate and detail-oriented Software Engineer transitioning into Data Analytics, with a strong foundation in computer science and experience designing, building, and deploying reliable applications.
-
-Experienced in SQL, Python, Power BI, data modeling, Databricks, Apache Spark, Kafka, and dbt, I focus on transforming raw, batch, and streaming data into clean, analytics-ready datasets and meaningful visualizations. I enjoy solving complex problems, uncovering insights, and supporting data-driven decision-making with scalable and well-designed solutions.
+Passionate and detail-oriented Software Engineer transitioning into Data Engineering, with a strong foundation in computer science and hands-on experience designing, building, and deploying reliable applications and data systems. Skilled in Python, SQL, Databricks, Apache Spark, Kafka, Airflow, and dbt, I focus on building scalable data pipelines that transform raw, batch, and streaming data into clean, analytics-ready datasets using modern architectures like the Medallion pattern. I enjoy solving complex infrastructure problems, optimizing data flows, and enabling data-driven decision-making through well-engineered, maintainable solutions.
 
 - 🎓 **Education:** Bachelor of Computers and Data science, Alexandria University
 - 💼 **Experience:** +2 years in software development
@@ -17,9 +15,9 @@ Experienced in SQL, Python, Power BI, data modeling, Databricks, Apache Spark, K
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, SQL
-- **Frameworks/Libraries:** pandas, numpy, matplotlib, seaborn, pyspark, kafka
-- **Tools:** Git, Docker, GCP, CI/CD, Power Bi, databricks, dbt, airflow
+- **Languages:** Python, SQL, JavaScript, Java
+- **Frameworks/Libraries:** PySpark, Kafka
+- **Tools:** Git, Docker, CI/CD, Power Bi, Databricks, DBT, Airflow
 - **Other:** REST APIs, Databases (SQL/NoSQL)
 
 ## Projects
