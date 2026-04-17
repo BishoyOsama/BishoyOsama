@@ -36,8 +36,9 @@ Here are some highlights from my portfolio:
 
 ## Certifications
 
-<div>
-       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"><img width="250" height="193" alt="MCF-badge-1" src="https://github.com/user-attachments/assets/0452d521-e321-4090-8d68-726b020a0b34" /></a>
+<div style="display:flex">
+       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Fundamentals (AZ-900) </a>
+       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Data Fundamentals (DP-900) </a>
 </div>
 
 
