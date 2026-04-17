@@ -10,14 +10,49 @@ Passionate and detail-oriented Software Engineer transitioning into Data Enginee
 - 🎓 **Education:** Bachelor of Computers and Data science, Alexandria University
 - 💼 **Experience:** +2 years in software development
 - 💡 **Interests:** Data Engineering, ML
-- 🌏 **Location:** Alexandria/Egypt
+- 🌏 **Location:** Alexandria, Egypt
 
 ## Skills
-
-- **Languages:** Python, SQL, JavaScript, Java
+<!-- - **Languages:** Python, SQL, JavaScript, Java
 - **Frameworks/Libraries:** PySpark, Kafka
-- **Tools:** Git, Docker, CI/CD, Power Bi, Databricks, DBT, Airflow
-- **Other:** REST APIs, Databases (SQL/NoSQL)
+- **Tools:** Git, Docker, Power Bi, Databricks, DBT, Airflow
+- **Other:** REST APIs, Databases (SQL/NoSQL) -->
+<div align="justify">
+<table border="0" cellspacing="10">
+  <tr>
+    <td>• <b>Python</b></td>
+    <td>• <b>Databricks</b></td>
+  </tr>
+  <tr>
+    <td>• <b>SQL</b></td>
+    <td>• <b>DBT</b></td>
+  </tr>
+  <tr>
+    <td>• <b>PySpark</b></td>
+    <td>• <b>Airflow</b></td>
+  </tr>
+  <tr>
+    <td>• <b>SparkSQL</b></td>
+    <td>• <b>Kafka</b></td>
+  </tr>
+  <tr>
+    <td>• <b>Power BI</b></td>
+    <td>• <b>Docker</b></td>
+  </tr>
+  <tr>
+    <td>• <b>Data Transformations</b></td>
+    <td>• <b>Data Extraction</b></td>
+  </tr>
+  <tr>
+    <td>• <b>Data Modeling</b></td>
+    <td>• <b>Data Management</b></td>
+  </tr>
+  <tr>
+    <td>• <b>Git</b></td>
+    <td>• <b>JavaScript</b></td>
+  </tr>
+</table>
+</div>
 
 ## Projects
 
@@ -36,9 +71,9 @@ Here are some highlights from my portfolio:
 
 ## Certifications
 
-<div style="display:flex">
-       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Fundamentals (AZ-900) </a>
-       <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Data Fundamentals (DP-900) </a>
+<div>
+-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Fundamentals (AZ-900) </a> </br>
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Data Fundamentals (DP-900) </a>
 </div>
 
 
@@ -47,8 +82,8 @@ Here are some highlights from my portfolio:
 I'm always open to new opportunities and collaborations!
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-       alt="Email" width="15"> osamabisho77@gmail.com
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15"/> [LinkedIn](https://www.linkedin.com/in/bishoy-osama-58693b215/)
+       alt="Email" width="10.5"> osamabisho77@gmail.com
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10.5"/> [LinkedIn](https://www.linkedin.com/in/bishoy-osama-58693b215/)
 
 
 
