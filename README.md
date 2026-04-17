@@ -73,7 +73,7 @@ Here are some highlights from my portfolio:
 
 <div>
 -  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Fundamentals (AZ-900) </a> </br>
-- <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/B1DE6ADCD050C948?sharingId=ADDBBCBAFBA067B1"> Azure Data Fundamentals (DP-900) </a>
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/BishoyOsama-3506/F8D7DE7A60CD77F1?sharingId=ADDBBCBAFBA067B1"> Azure Data Fundamentals (DP-900) </a>
 </div>
 
 
