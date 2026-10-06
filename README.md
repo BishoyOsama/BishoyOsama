@@ -82,7 +82,7 @@ Grounded in Medallion architecture, Kimball modeling, and modern orchestration. 
 </tr>
 <tr>
 <td><b>Code</b></td>
-<td><a href="[https://github.com/BishoyOsama/olist-lakehouse](https://github.com/BishoyOsama/Marketplace-Pipeline.git)">→ View repository</a></td>
+<td><a href="https://github.com/BishoyOsama/Marketplace-Pipeline.git">→ View repository</a></td>
 </tr>
 <tr>
 <td><b>Description</b></td>
