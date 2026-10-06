@@ -71,24 +71,24 @@ Grounded in Medallion architecture, Kimball modeling, and modern orchestration. 
 
 ## Projects
 
-### Olist E-Commerce Lakehouse
+### AWS + Microsoft Fabric Data Engineering Pipeline
 
 > Multi-source lakehouse on Microsoft Fabric — real Brazilian e-commerce data, synthetic Kafka event stream, Kimball star schema, and CI/CD via GitHub Actions.
 
 <table>
 <tr>
 <td width="120"><b>Goal</b></td>
-<td>Build an end-to-end data platform ingesting historical data from AWS Aurora and a continuous synthetic event stream from Kafka, unified at a clean silver layer, and served via a Kimball star schema to Power BI.</td>
+<td>Build an end-to-end data platform ingesting historical data from AWS RDS and a continuous synthetic event stream from Kafka, unified at a clean silver layer, and served via a Kimball star schema to Power BI.</td>
 </tr>
 <tr>
 <td><b>Code</b></td>
-<td><a href="https://github.com/BishoyOsama/olist-lakehouse">→ View repository</a></td>
+<td><a href="[https://github.com/BishoyOsama/olist-lakehouse](https://github.com/BishoyOsama/Marketplace-Pipeline.git)">→ View repository</a></td>
 </tr>
 <tr>
 <td><b>Description</b></td>
 <td>
 
-The Olist dataset (99k real Brazilian e-commerce orders, 2016–2018) lives in Amazon Aurora behind a private VPC. A Windows Server EC2 instance runs the Microsoft On-Premises Data Gateway inside the same VPC — no public database exposure. Fabric's Data Pipeline connects through the gateway to extract all source tables into a Bronze Lakehouse.
+The Olist dataset (99k real Brazilian e-commerce orders, 2016–2018) lives in Amazon RDS behind a private VPC. A Windows Server EC2 instance runs the Microsoft On-Premises Data Gateway inside the same VPC — no public database exposure. Fabric's Data Pipeline connects through the gateway to extract all source tables into a Bronze Lakehouse.
 
 A second EC2 instance (Amazon Linux) runs a stateful Python generator as a systemd service, producing realistic Kafka order lifecycle events from 2019 onward — timing distributions derived from the actual historical data. Fabric Eventstream consumes two Kafka topics (order events and review events) into a separate Bronze Lakehouse.
 
